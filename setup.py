@@ -6,4 +6,4 @@ setup(name='lif_reader',
       author='Andreas Kist',
       author_email='anki@neuro.mpg.de',
       packages=find_packages(),
-      install_requires=['javabridge', 'deepdish'])
+      install_requires=['javabridge', 'deepdish', 'bioformats'])
